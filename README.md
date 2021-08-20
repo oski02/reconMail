@@ -4,7 +4,6 @@
 	width="400"
 	style="float: left; margin-right: 10px;" />
 </p>
-
 Herramienta para recolectar correos electrónicos, ideal para **Pentesting**, **Hackers Éticos**, **REDTEAM**
 
 Esta herramienta utiliza los servicios gratuitos de phonebook (Intelx.io)
