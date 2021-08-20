@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="images/reconMail.png"
-	alt="Evil logo"
+	alt="reconMail logo"
 	width="200"
 	style="float: left; margin-right: 10px;" />
 </p>
