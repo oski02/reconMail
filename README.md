@@ -1,5 +1,3 @@
-# reconMail
-
 <p align="center">
 <img src="images/reconMail.png"
 	alt="reconMail logo"
