@@ -77,7 +77,7 @@ then
     printf "\033[1;36m  .-^---------^-.\n"
     printf "\033[1;36m  | ---~   AMiGA|\n"
     printf "\033[1;36m  '-------------'\n"
-	printf "\033[0;31mError: Se han finalizado el número de busquedas gratuitas diarias, intentalo mañana.\n"
+	printf "\033[0;31mGuru meditation: Se ha finalizado por hoy el número máximo de busquedas gratuitas diarias, intentalo mañana.\n"
 	spinny::stop
 	exit 0;
 else
