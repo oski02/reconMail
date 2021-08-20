@@ -12,3 +12,10 @@
 **IMPORTANTE**: Dado que se utiliza el servicio Gratuito de PhoneBook (intelX.io) el numero de busquedas queda limitado diariamente.
 **NOTA**: El creador de esta herramienta no se hace responsable del mal uso de la misma.
 
+¿Cómo funciona?
+======
+La herramienta comienza haciendo una comprobación de las utilidades necesarias para desplegar el ataque:
+
+'''bash
+./reconMail
+'''
