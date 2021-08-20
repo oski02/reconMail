@@ -62,7 +62,6 @@ consulta=$(curl  -s -k -X 'POST' \
     -H 'Accept-Language: es-ES,es;q=0.9' \
     --data-binary "{"'"term"'":"'"'$dominio'"'","'"maxresults"'":10000,"'"media"'":0,"'"target"'":2,"'"timeout"'":20}" \
     "https://public.intelx.io/phonebook/search?k=$key" | jq '.id' | sed 's/"//g' )
-
 if [ -z "$consulta" ];
 then
     spinny::start
@@ -95,7 +94,6 @@ salida=$(curl  -s -k -X 'GET' \
     -H 'Accept-Encoding: gzip, deflate' \
     -H 'Accept-Language: es-ES,es;q=0.9' \
     "https://public.intelx.io/phonebook/search/result?k=$key&id=$consulta&limit=10000" | jq | grep "Email" -A 1 | grep "selectorvalue" | awk '{print $2}' | tr '",' '\r' | tee $file)
-
 fi
 }
 
