@@ -1,9 +1,11 @@
+#
 <p align="center">
 <img src="images/reconMail.png"
 	alt="reconMail logo"
 	width="300"
 	style="float: left; margin-right: 10px;" />
 </p>
+#
 
 **reconMail** es una Herramienta para recolectar correos electrónicos, ideal para **Pentesting**, **Hackers Éticos**, **REDTEAM**
 
@@ -14,8 +16,5 @@
 
 ¿Cómo funciona?
 ======
-La herramienta comienza haciendo una comprobación de las utilidades necesarias para desplegar el ataque:
+La herramienta nos preguntara por el dominio que queremos buscar los correos:
 
-'''bash
-./reconMail
-'''
