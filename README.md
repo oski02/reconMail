@@ -3,7 +3,7 @@
 <p align="center">
 <img src="images/reconMail.png"
 	alt="reconMail logo"
-	width="200"
+	width="400"
 	style="float: left; margin-right: 10px;" />
 </p>
 
