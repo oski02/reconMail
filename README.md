@@ -1,10 +1,10 @@
 <p align="center">
 <img src="images/reconMail.png"
 	alt="reconMail logo"
-	width="400"
+	width="300"
 	style="float: left; margin-right: 10px;" />
 </p>
-Herramienta para recolectar correos electrónicos, ideal para **Pentesting**, **Hackers Éticos**, **REDTEAM**
+**reconMail** es una Herramienta para recolectar correos electrónicos, ideal para **Pentesting**, **Hackers Éticos**, **REDTEAM**
 
 Esta herramienta utiliza los servicios gratuitos de phonebook (Intelx.io)
 
