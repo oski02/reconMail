@@ -15,3 +15,9 @@
 ======
 La herramienta nos preguntara por el dominio que queremos buscar los correos:
 
+<p align="center">
+<img src="images/reconMailAPP.png"
+	alt="reconMail logo"
+	width="300"
+	style="float: left; margin-right: 10px;" />
+</p>
