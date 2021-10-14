@@ -40,7 +40,7 @@ Pasos a seguir:
 
 1. instalamos h8mail
 
-```pip3 install h8mail``` \
+```pip3 install h8mail``` 
 
 Mas info: https://github.com/khast3x/h8mail
 
