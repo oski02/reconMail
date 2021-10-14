@@ -32,7 +32,7 @@ La herramienta nos preguntará por el dominio que queremos buscar los correos:
 Encontrar mails que tengan algún Leak
 ======
 
-Combinando con la herramienta h8mail podremos ser capaces de detectar si los correos que hemos buscado presentan algún leak de informacion. \
+Combinando con la herramienta h8mail podremos ser capaces de detectar si los correos que hemos buscado presentan algún leak de informacion. 
 
 Pasos a seguir:
 
