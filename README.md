@@ -14,10 +14,10 @@
 Instalación
 ======
 
-git clone https://github.com/oski02/reconMail.git \
-cd reconMail \
-chmod +x reconMail.sh \
-./reconMail.sh 
+```git clone https://github.com/oski02/reconMail.git ```\
+```cd reconMail``` \
+```chmod +x reconMail.sh``` \
+```./reconMail.sh``` 
 
 ¿Cómo funciona?
 ======
