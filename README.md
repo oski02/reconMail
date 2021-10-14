@@ -6,7 +6,7 @@
 	style="float: left; margin-right: 10px;" />
 </p>
 
-**reconMail** es una Herramienta OSINT para recolectar correos electrónicos de una organización, ideal para **BugBountys**, **Pentesting**, **Hackers Éticos**, **REDTEAM**, etc. \
+**reconMail** es una Herramienta OSINT para recolectar correos electrónicos de una organización, ideal para **BugBountys**, **Pentesting**, **Hackers Éticos**, **REDTEAM**, etc. 
 
 Además puede utilizarse junto con otras herramientas, como h8mail,  para detectar si los correos recolectados por reconMail tienen algún Leak de información.
 
