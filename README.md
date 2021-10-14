@@ -21,7 +21,7 @@ Instalación
 
 ¿Cómo funciona?
 ======
-La herramienta nos preguntará por el dominio que queremos buscar los correos:
+La herramienta nos preguntará por el dominio que queremos buscar los correos, una vez introducido nos mostrará por pantalla los mails encontrados y nos generará un fichero con todos ellos.
 
 <p align="center">
 <img src="images/reconMailAPP.png"
