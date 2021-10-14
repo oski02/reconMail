@@ -6,7 +6,7 @@
 	style="float: left; margin-right: 10px;" />
 </p>
 
-**reconMail** es una Herramienta para recolectar correos electrónicos, ideal para **BugBountys**, **Pentesting**, **Hackers Éticos**, **REDTEAM**
+**reconMail** es una Herramienta para recolectar correos electrónicos, ideal para **BugBountys**, **Pentesting**, **Hackers Éticos**, **REDTEAM**, etc.
 
 **IMPORTANTE**: Dado que se utiliza el servicio Gratuito de PhoneBook (intelX.io) el numero de busquedas queda limitado diariamente.
               **El creador de esta herramienta no se hace responsable del mal uso de la misma.**
