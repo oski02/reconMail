@@ -17,7 +17,7 @@ Instalación
 git clone https://github.com/oski02/reconMail.git \
 cd reconMail \
 chmod +x reconMail.sh \
-./reconMail.sh \
+./reconMail.sh 
 
 ¿Cómo funciona?
 ======
@@ -29,7 +29,7 @@ La herramienta nos preguntará por el dominio que queremos buscar los correos:
 	style="float: left; margin-right: 10px;" />
 </p>
 
-Encontrar mails que tengan algun leeak
+Encontrar mails que tengan algun Leak
 ======
 
 Combinando con la herramienta h8mail podremos ser capaces de detectar si los correos que hemos buscado presentan algún leak de informacion. \
