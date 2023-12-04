@@ -1,4 +1,7 @@
-#
+
+
+# DEPRECATED, ESTE PROYECTO ESTÁ DESACTUALIZADO Y DEBIDO A LOS CAMBIOS QUE SE HICIERON EN INTELX YA NO ES FUNCIONAL #
+
 <p align="center">
 <img src="images/reconMail.png"
 	alt="reconMail logo"
